@@ -36,5 +36,7 @@ A dashboard application with authentication, CRUD operations, and modular UI arc
 
 ---
 
-## 🤝 Connect with Me
-GitHub: https://github.com/nikhil-barve1
+## 🌐 Portfolio & Profiles
+- Portfolio: https://nikhilbarve.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/nikhil-barve-tech
+- GitHub: https://github.com/nikhil-barve1
