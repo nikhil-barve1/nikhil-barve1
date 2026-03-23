@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
 
-<!--
-**nikhil-barve1/nikhil-barve1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building real-world web applications using React and Next.js.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build scalable frontend applications
+- Work with modern UI architectures
+- Focus on clean, maintainable code
+- Develop dashboard systems and user-facing apps
+
+---
+
+## 🛠 Tech Stack
+- React.js / Next.js
+- JavaScript / TypeScript
+- Tailwind CSS
+- REST APIs
+
+---
+
+## 📌 Featured Project
+### Shop Management Dashboard
+A dashboard application with authentication, CRUD operations, and modular UI architecture.
+
+🔗 Live Demo: https://dashboard-web-app-project.netlify.app/  
+🔗 Repository: https://github.com/nikhil-barve1/dashboard-web-app
+
+---
+
+## 📈 Currently Working On
+- Improving frontend architecture skills
+- Exploring real-world project patterns
+- Preparing for open-source contributions
+
+---
+
+## 🤝 Connect with Me
+GitHub: https://github.com/nikhil-barve1
