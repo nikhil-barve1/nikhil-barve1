@@ -1,42 +1,33 @@
 # Hi, I'm Nikhil 👋
 
-Frontend Developer focused on building real-world web applications using React and Next.js.
+Frontend Developer with experience building production-level web applications using React.js and modern frontend technologies.
 
 ---
 
 ## 🚀 What I Do
-- Build scalable frontend applications
-- Work with modern UI architectures
-- Focus on clean, maintainable code
-- Develop dashboard systems and user-facing apps
+- Build scalable and responsive web applications
+- Develop clean, reusable UI components
+- Work with REST APIs and dynamic data
+- Focus on performance and maintainable code
 
 ---
 
 ## 🛠 Tech Stack
 - React.js / Next.js
 - JavaScript / TypeScript
-- Tailwind CSS
+- Tailwind CSS / Bootstrap
+- Redux Toolkit
 - REST APIs
 
 ---
 
-## 📌 Featured Project
-### Shop Management Dashboard
-A dashboard application with authentication, CRUD operations, and modular UI architecture.
-
-🔗 Live Demo: https://dashboard-web-app-project.netlify.app/  
-🔗 Repository: https://github.com/nikhil-barve1/dashboard-web-app
+## 💼 Experience
+Web Developer @ Evermore AutoMart Pvt. Ltd.  
+Working on a production-level eCommerce platform, building responsive UIs, integrating APIs, and improving performance.
 
 ---
 
-## 📈 Currently Working On
-- Improving frontend architecture skills
-- Exploring real-world project patterns
-- Preparing for open-source contributions
-
----
-
-## 🌐 Portfolio & Profiles
-- Portfolio: https://nikhilbarve.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/nikhil-barve-tech
-- GitHub: https://github.com/nikhil-barve1
+## 🌐 Links
+- Portfolio: https://your-portfolio-link.com  
+- GitHub: https://github.com/nikhil-barve1  
+- LinkedIn: https://linkedin.com/in/your-profile
