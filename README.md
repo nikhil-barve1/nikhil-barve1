@@ -22,7 +22,7 @@ Frontend Developer with experience building production-level web applications us
 ---
 
 ## 💼 Experience
-Web Developer @ Evermore AutoMart Pvt. Ltd.  
+Frontend Developer @ Evermore AutoMart Pvt. Ltd.  
 Working on a production-level eCommerce platform, building responsive UIs, integrating APIs, and improving performance.
 
 ---
