@@ -28,6 +28,6 @@ Working on a production-level eCommerce platform, building responsive UIs, integ
 ---
 
 ## 🌐 Links
-- Portfolio: https://your-portfolio-link.com  
+- Portfolio: https://nikhilbarve.netlify.app/
 - GitHub: https://github.com/nikhil-barve1  
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/nikhil-barve-tech
